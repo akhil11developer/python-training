@@ -1,0 +1,41 @@
+# What is software?
+
+
+software is a set of defination,that can perform the any program and task to represent(execute) in the computer,and maintain and operate the computer.
+
+softeare is opposite to hardware.that can not touch only for seen in the computer.
+
+
+
+#what are the types of applications?
+
+mobile web application
+
+andriod application
+
+ios applicatioin
+
+web application
+
+
+
+#what is programming?
+
+programming is create a program to user,computer can execute the user define task and display the output on the computer.
+
+programming languages likes python,c ,c++,python,
+
+
+
+#what is python?
+
+python is a high level , interpreted object oriented programming language.
+
+its simple yet poweful programming language.
+
+python provide a standard library and built in modules.
+
+
+
+
+
