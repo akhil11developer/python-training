@@ -11,9 +11,7 @@ softeare is opposite to hardware.that can not touch only for seen in the compute
 
 mobile web application
 
-andriod application
-
-ios applicatioin
+desktop application
 
 web application
 
