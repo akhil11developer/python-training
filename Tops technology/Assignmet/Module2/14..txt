@@ -1,0 +1,19 @@
+
+14. What are negative indexes and why are they used?
+
+negative indexs are end of the list with indexing starting at -1 .
+
+like -1 is end of first index of list .
+
+negative indexing is used to in python to begin slicing from end of the string.
+
+
+
+#what is continue statement?
+
+continue statement is used to skip current statement
+
+
+#How memory is managed python?
+
+memory allocation and de allocation in python are automatically reserverd memory.

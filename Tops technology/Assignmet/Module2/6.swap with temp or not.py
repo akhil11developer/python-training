@@ -1,3 +1,8 @@
+"""
+Write python program that swap two number with temp variable and
+without temp variable.
+"""
+
 a = int(input("Enter a number 1:"))
 b = int(input("enter a number 2:"))
 
