@@ -1,5 +1,6 @@
-# Write a Python program to calculate the length of a string.
-
+""" 
+Write a Python program to calculate the length of a string.
+"""
 
 str = "Andriodpythonjava"
 

@@ -1,5 +1,6 @@
-"""Write a Python program to get the Factorial number of given number.
-    """
+"""
+Write a Python program to get the Factorial number of given number.
+"""
 n = int(input("Enter a number"))
 fac =1
 i=1

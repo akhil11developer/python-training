@@ -1,4 +1,5 @@
-""" write a python program to count occurence of substring in a string.
+"""
+write a python program to count occurence of substring in a string.
 """
 
 str = input("your string:")

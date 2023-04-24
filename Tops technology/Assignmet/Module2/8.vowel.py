@@ -1,5 +1,7 @@
-""" Write a Python program to test whether a passed letter is a vowel or 
-not."""
+""" 
+Write a Python program to test whether a passed letter is a vowel or 
+not.
+"""
 
 word =input("Enter  your word")
 
