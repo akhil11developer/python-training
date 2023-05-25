@@ -3,7 +3,7 @@ Write a Python program to count the occurrences of each word in a
 given sentence
 """
 
-sentence = "This is a sentence that we want to count the occurrences of each word in"
+sentence = "python is high level prgramming language , python language like to people."
 
 # Split the sentence into a list of words
 

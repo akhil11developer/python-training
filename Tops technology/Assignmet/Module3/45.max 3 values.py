@@ -6,4 +6,4 @@ dic1 = sorted(dict.values())
 
 print(dic1)
 
-print(sorted(dic1[-3:],reverse=True))
+print(sorted(dic1[3:],reverse=True))

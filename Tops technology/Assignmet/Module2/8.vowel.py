@@ -3,7 +3,7 @@ Write a Python program to test whether a passed letter is a vowel or
 not.
 """
 
-word =input("Enter  your word")
+word =input("Enter  your word : ")
 
 if word in "aeiou":
     print("your word is vowel")

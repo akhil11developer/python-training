@@ -7,3 +7,4 @@ for i in d:
     for j in i.values():
         a.append(j)
 print(set(a))
+

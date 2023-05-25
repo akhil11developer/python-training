@@ -8,4 +8,4 @@ str1 = ''.join(tup1)
 
 print(str1)
 
-print(type(str1)) #check the coonvert tuple to string
+print(type(str1)) #check the convert tuple to string

@@ -4,8 +4,7 @@ value.
 """
 #asending order
 d={1:2,3:4,4:3,2:1,0:0}
-l=list(d.items())
-l.sort()
+l=sorted(d.items())
 print('Ascending order is',l)
 
 #decending oder

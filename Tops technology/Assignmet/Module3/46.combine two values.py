@@ -7,10 +7,11 @@ Counter ({'item1': 1150, 'item2': 300})
 """
 a=[{'item': 'item1', 'amount': 400}, {'item': 'item2', 'amount': 300}, {'item': 'item1', 'amount': 750}]    
 c={}
-val=0
-for d in a:
-    if d['item'] not in c:
-        c[d['item']]=d['amount']
+
+for i in a:
+    if i['item'] in c:
+        c[i['item']]+= i['amount']
     else :
-        c[d['item']]+=d['amount']
+        c[i['item']]= i['amount']
 print(c)  
+

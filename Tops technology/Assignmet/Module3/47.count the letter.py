@@ -10,5 +10,6 @@ for check in str1:
         dic[check] += 1
     else:
         dic[check] = 1 #if ch appears for the first time
+
 for key in dic:
     print(key,':',dic[key])

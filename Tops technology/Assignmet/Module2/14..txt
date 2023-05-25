@@ -16,4 +16,8 @@ continue statement is used to skip current statement
 
 #How memory is managed python?
 
-memory allocation and de allocation in python are automatically reserverd memory.
+memory management in python involves a private heap containing all python object $ data structure.
+
+memory manager is deals with store management like sharing,caching.
+
+in python there is also garbage collection is present.it recycles all the unused memory and also it makes free space in memory.

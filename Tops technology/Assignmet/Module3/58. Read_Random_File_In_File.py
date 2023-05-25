@@ -1,6 +1,7 @@
 import random
 
-fd = open("hello.txt", "r")
-lines = fd.readlines()
+f = open("hello.txt", "r")
+
+lines = f.readlines()
+
 print(random.choice(lines))
-fd.close()

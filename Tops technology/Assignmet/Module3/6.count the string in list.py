@@ -4,9 +4,8 @@ length is 2 or more and the first and last character are same from a given
 list of strings. 
 """
 
-list1 =["aba","xyz","def","prq","abc","xyz"]
+list1 =["aba","xyz","def","prp","abc","xyz"]
 
-#print(list1.count("abc"))
 
 x= 0
 for i in list1:
