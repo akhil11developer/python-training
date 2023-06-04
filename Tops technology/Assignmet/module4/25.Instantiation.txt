@@ -1,0 +1,4 @@
+What is Instantiation in terms of OOP terminology? 
+
+ans.
+The creation of a new instance of the class is called instantiation.
